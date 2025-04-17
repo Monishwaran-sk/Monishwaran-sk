@@ -17,7 +17,7 @@
 
 ## 🚀 Featured Projects
 
-### 🔹 [Customer Review Sentiment Analysis](https://github.com/Monishwaran-sk/customer-review-sentiment-dashboard)
+### 🔹 [Customer Review Sentiment Analysis](https://github.com/Monishwaran-sk/Customer-Review-Sentiment-Analysis)
 - 📦 Analyzed 500K+ Amazon Fine Food Reviews using **TextBlob** for sentiment polarity  
 - 📊 Built visualizations using **Matplotlib** and **Seaborn** to understand customer opinions  
 - 🧠 Applied **NLP techniques** to extract sentiment trends and product feedback insights
